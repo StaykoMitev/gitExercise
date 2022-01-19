@@ -3,6 +3,6 @@ package com.test;
 public class ClassBGR {
     public static void main(String[] args) {
 
-    System.out.println("Conflict change");
+    System.out.println("Conflict02 change");
     }
 }
